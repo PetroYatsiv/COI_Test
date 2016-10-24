@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="COI2.Model.ContainerModel&lt;T&gt;">
+    <Position X="1.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAA=</HashCode>
+      <FileName>Model\ContainerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COI2.Model.Containers&lt;T&gt;">
+    <Position X="1.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Containers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COI2.Model.MatrixModel&lt;T&gt;">
+    <Position X="4.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Model\MatrixModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COI2.Model.PointModel&lt;T&gt;">
+    <Position X="8.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>Model\PointModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COI2.Model.PositionModel&lt;T&gt;">
+    <Position X="6.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Model\PositionModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

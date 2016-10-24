@@ -1,0 +1,6 @@
+D:\project_visual_studio\COI2\COI2\bin\Debug\COI2.exe.config
+D:\project_visual_studio\COI2\COI2\obj\Debug\COI2.csprojResolveAssemblyReference.cache
+D:\project_visual_studio\COI2\COI2\bin\Debug\COI2.exe
+D:\project_visual_studio\COI2\COI2\bin\Debug\COI2.pdb
+D:\project_visual_studio\COI2\COI2\obj\Debug\COI2.exe
+D:\project_visual_studio\COI2\COI2\obj\Debug\COI2.pdb
